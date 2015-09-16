@@ -1,0 +1,27 @@
+img{
+    height: 71px;
+    width: 71px;
+}
+
+/* Hintergrund des Memory Boards */
+div#memory_board{
+    background: #164f66;
+    border: #fbf3fc 1px solid;
+    width:800px;
+    height:540px;
+    padding:24px;
+    margin:0px auto;
+}
+/* Rahmen der Memory Karten und Kartenrückenbild*/
+div#memory_board > div{
+    background: url("../img/bg.jpg") no-repeat;
+    border: #70f7ff 1px solid;
+    width:71px;
+    height:71px;
+    float:left;
+    margin:10px;
+    padding:20px;
+    font-size:64px;
+    cursor:pointer;
+    text-align:center;
+}

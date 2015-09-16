@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="../css/style.css" rel="stylesheet" />
+        <script language="javascript" type="text/javascript" src="../js/jquery-1.11.3.min.js"></script>
+        <script language="javascript" type="text/javascript" src="../js/functions.js"></script>
+    </head>
+
+    <!-- when Body loaded repeat every secound -->
+    <body onload="setInterval(function(){$('#time').text( parseInt($('#time').text())+1);},1000)">
+        <div class="bg">
+            Fehlversuche: <div id="trys">0</div>
+            Zeit: <div id="time">0</div>
+            <div id="memory_board"></div>
+        </div>
+        <script>newBoard();</script>
+    </body>
+</html>
