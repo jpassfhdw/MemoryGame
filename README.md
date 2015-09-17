@@ -19,9 +19,9 @@ https://www.developphp.com/video/JavaScript/Memory-Game-Programming-Tutorial
 
 We'd like to say, for the record, that the game is not 100% finished. It's a very first version and there's room for a ton of improvements, optimizations, etc.
 
-First Bug we have found and not able to fix it, is found in the first dialogbox of field size question. If you enter another char instead of a number, the game will not start.
+First Bug we found, but were not able to fix, is after the first dialogbox of field size question. If you enter another char instead of a number, the game will not start and no error handling will appear.
 
-Also we tried to develop a function to upload images out of the img directory dynamically, but it doesn't work. So if someone have a solution to fix it, we would be pleased to get the solution.
+Also we tried to develop a function to upload images out of the img directory dynamically, but it didn't work. So if someone has a solution to fix it, we would be pleased to get the solution.
 
 ## Usage
 
@@ -33,7 +33,7 @@ click on "Los geht es!".
 
 ### Images
 
-The used images are copyright © 2015 of pixabay You can freely redistribute it and use it for your personal purpose. If you want to use these icons for a commercial purpose, you will need the permission of Pixabay So, please contact Pixabay via http://pixabay.com/de/servcie/about
+The used images are copyright © 2015 of pixabay. You can freely redistribute it and use it for your personal purpose. If you want to use these icons for a commercial purpose, you will need the permission of Pixabay. So, please contact Pixabay via http://pixabay.com/de/servcie/about
 
 All images have the license:
 CC0 Public Domain / FAQ
