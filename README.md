@@ -2,6 +2,7 @@
 
 MemoryGame - Messe 2.0   
 Version 1.0  Date: 17 September 2015
+&nbsp;
 An example of a simple Memory Game (match pairs) developed in the JavaScript IDE Webstorm with JavaScript (jQuery), HTML5 and CSS.
 
 The game is based on a solution developed by Adam Khoury
