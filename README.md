@@ -1,6 +1,7 @@
 # Memory
 
-Memory - Messe 2.0   Version 1.0  Date: 17 September 2015
+Memory - Messe 2.0   
+Version 1.0  Date: 17 September 2015
 An example of a simple Memory Game (match pairs) developed in the JavaScript IDE Webstorm with JavaScript (jQuery), HTML5 and CSS.
 
 The game is based on a solution developed by Adam Khoury
@@ -27,24 +28,21 @@ Also we tried to develop a function to upload images out of the img directory dy
 You can try our game on https://wipfhdw.wordpress.com/test-2/readme/
 click on "Los geht es!".
 
-## Contributing
-
-
 
 ## License
 
-# Images
+### Images
 
 The used images are copyright © 2015 of pixabay You can freely redistribute it and use it for your personal purpose. If you want to use these icons for a commercial purpose, you will need the permission of Pixabay So, please contact Pixabay via http://pixabay.com/de/servcie/about
 
 All images have the license:
 CC0 Public Domain / FAQ
 
-# Basic structure from Adam Khoury
+### Basic structure from Adam Khoury
 https://www.developphp.com/terms_of_use.php
 https://www.developphp.com/video/JavaScript/Memory-Game-Programming-Tutorial
 
-# Our Game: Terms of use
+### Our Game: Terms of use
 
 The MIT License (MIT)
 
